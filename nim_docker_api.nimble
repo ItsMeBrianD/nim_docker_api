@@ -1,12 +1,12 @@
 # Package
 
-version       = "0.1.1"
+version       = "0.1.2"
 author        = "lantos-lgtm"
 description   = "A new awesome nimble package"
 license       = "Proprietary"
 srcDir        = "src"
-binDir        = "bin"
-bin           = @["nim_docker_api"]
+# binDir        = "bin"
+# bin           = @["nim_docker_api"]
 
 # Dependencies
 requires "nim >= 1.6.6"
